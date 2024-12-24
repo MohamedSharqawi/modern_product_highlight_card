@@ -51,6 +51,7 @@ body .card .txt h1 {
     font-family: "Fraunces", serif;
     color: hsl(212, 21%, 14%);
     line-height: 1;
+    font-size: 30px;
 }
 
 body .card .txt .cont {
@@ -108,4 +109,3 @@ body .card .link {
         gap: 15px;
     }
 }
-
